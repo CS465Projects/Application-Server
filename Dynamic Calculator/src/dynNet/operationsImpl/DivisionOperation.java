@@ -1,4 +1,4 @@
-package dynNet.operationsImpl;
+package operationsImpl;
 
 import dynNet.dynCalculator.Operation;
 
